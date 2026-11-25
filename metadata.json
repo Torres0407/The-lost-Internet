@@ -1,0 +1,6 @@
+{
+  "name": "The Lost Internet",
+  "description": "A retro desktop OS simulation and narrative mystery set in a recovered early-2000s web archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
